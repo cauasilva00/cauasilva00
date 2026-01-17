@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Cauã Andrade Silva! 👋
 
-<!--
-**cauasilva00/cauasilva00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Engineering Student @ UNISINOS
 
-Here are some ideas to get you started:
+I am a technology enthusiast passionate about **innovation** and efficient solutions. With a strong background in **IT Support** and **Administrative** routines, I am currently transitioning my career towards **Software Engineering**, specifically focusing on **Java** and **Backend Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently studying **Computer Engineering** at **UNISINOS** (Sao Leopoldo, RS).
+- 💻 My focus is on **Backend Development** using **Java**.
+- 💼 I have professional experience in **Technical Support** and **IT Maintenance** (Prefeitura de Guaíba & Eldorado do Sul).
+- 🗣️ I speak **Portuguese** (Native) and **English** (Advanced).
+- 🎯 Goal: Seeking challenges that drive professional growth and technical expertise.
+
+---
+
+### 🛠️ Tech & Tools
+
+* **Languages:** Java
+* **Focus:** Backend Architecture, Software Engineering
+* **General Skills:** Technical Support, Hardware Maintenance, Administrative Software
+
+---
+
+### 📫 Connect with me
+
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caua-asilva)
+* [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauandradesilva06@gmail.com)
+
+---
+
+<p align="left">
+  <i>"Passionate about innovation and learning."</i>
+</p>
